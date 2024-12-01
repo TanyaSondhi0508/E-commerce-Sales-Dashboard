@@ -1,4 +1,3 @@
-Analyze the effectiveness of profit by various categories,sub-categories, payment modes, state etc.
-Insights and Recommendations is attached in the word file format.
+An interactive e-commerce sales dashboard which analyses sales performance, profit trends, customer preferences, and payment behavior across categories and regions.
 
 
